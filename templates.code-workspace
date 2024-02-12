@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../user-authentication-system/backend/statics/templates"
+		},
+		{
+			"path": "../user-authentication-system/backend/app/__init__.py"
+		},
+		{
+			"path": "../user-authentication-system/backend/venv/requirements.txt"
+		},
+		{
+			"path": "../my_auth_project/app"
+		},
+		{
+			"path": "../my_auth_project/app/utils"
+		},
+		{
+			"path": "../my_auth_project/app/static"
+		},
+		{
+			"path": "../my_auth_project/app/templates"
+		},
+		{
+			"path": "../my_auth_project/run.py"
+		},
+		{
+			"path": "../my_auth_project/config.py"
+		}
+	],
+	"settings": {}
+}
